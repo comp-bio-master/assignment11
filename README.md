@@ -1,6 +1,5 @@
 # Assignment 11
 
-## Due 11/13
 
 ## Description of Assignment 
 
@@ -8,6 +7,10 @@
 
 * Complete Exercises 3.8.1 & 3.8.2
 
+![](3_8_1.png)
+
+![](3_8_2.png)
+
 ## Submission
 
-Submit updating this repo and pushing it to GitHub
+Submit updating this repo by pushing it to GitHub
